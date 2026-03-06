@@ -1,6 +1,4 @@
-# CyberRecon-Pro
-Advanced Cybersecurity Reconnaissance &amp; Vulnerability Scanning Platform built with Python, PyQt5, Nmap, Nikto, CVE intelligence and MITRE ATT&amp;CK mapping.
-# 🛡️ CyberRecon Pro v3.0
+# 🛡️ CyberRecon Pro
 
 CyberRecon Pro is an **Advanced Cybersecurity Reconnaissance & Vulnerability Assessment Platform** built using **Python and PyQt5**.
 
