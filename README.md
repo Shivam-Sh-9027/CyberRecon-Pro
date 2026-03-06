@@ -74,11 +74,11 @@ Example:
 ### Scan Results
 ![Scan Results](screenshots/scan_results.png)
 
-### Vulnerability Analysis
-![Vulnerability](screenshots/vulnerabilities.png)
+### Working Dashboard
+![Vulnerability](screenshots/working_dashboard.png)
 
 ### Attack Graph Visualization
-![Attack Graph](screenshots/attack_graph.png)
+![Attack Graph](screenshots/attack_graph_v3.png)
 
 ---
 
