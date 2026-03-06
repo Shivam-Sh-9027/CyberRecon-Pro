@@ -69,16 +69,16 @@ Example:
 # 📸 Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Screenshots/dashboard.png)
 
 ### Scan Results
-![Scan Results](screenshots/scan_results.png)
+![Scan Results](Screenshots/scan_results.png)
 
 ### Working Dashboard
-![Vulnerability](screenshots/working_dashboard.png)
+![Vulnerability](Screenshots/working_dashboard.png)
 
 ### Attack Graph Visualization
-![Attack Graph](screenshots/attack_graph_v3.png)
+![Attack Graph](Screenshots/attack_graph_v3.png)
 
 ---
 
