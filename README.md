@@ -71,13 +71,7 @@ You can embed a demo video of the tool running.
 Example:
 
 ```
-https://github.com/user-attachments/assets/demo-video.mp4
-```
-
-Or use YouTube:
-
-```
-https://www.youtube.com/watch?v=YOUR_VIDEO_ID
+https://github.com/Shivam-Sh-9027/CyberRecon-Pro/blob/main/assets/demo.mp4
 ```
 
 ---
